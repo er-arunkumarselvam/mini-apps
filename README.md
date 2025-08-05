@@ -4,11 +4,11 @@ A collection of **mini applications** built using **ReactJS**, **TypeScript**, *
 
 Whether you're a beginner aiming to grasp the fundamentals or a developer looking to sharpen your skills, this repository offers well-structured, real-world examples to enhance your learning.
 
-# LICENSE
+#### LICENSE
 MIT LICENSE
 
-# Author
+#### Author
 Arunkumar Selvam
 
-# Credits
+#### Credits
 Stoz for Inspiration
